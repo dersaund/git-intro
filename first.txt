@@ -1,10 +1,7 @@
 Derek wuz here
 
-<<<<<<< HEAD
-
-
-=======
 Derek wuz here 2
 
 Change under Lincoln
->>>>>>> lincoln
+
+1820-1840
